@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <title>My first Hyperlink page</title>
+ </head>
+  <frameset rows="90px,90px,90px,90px,90px,90px,90px,*" cols="90px,90px,90px,90px,90px,90px,90px,*" noresize frameborder="0">
+  <frame src="googleproject.html"/>
+  <frame src="flipkartproject.html"/>
+  <frame src="appleproject.html"/>
+  <frame src="amazonproject.html"/>
+
+  <frame src="twitterproject.html"/>
+  <frame src="nasaproject.html"/>
+  <frame src="isroproject.html"/>
+  <frame src="microsoftproject.html"/>
+  <frame src="teslaproject.html"/>
+  <frame src="infosysproject.html"/>
+
+  <frame src="wiproproject.html"/>
+  <frame src="deloitteproject.html"/>
+  <frame src="tcsproject.html"/>
+  <frame src="truecallerproject.html"/>
+  <frame src="whatsappproject.html"/>
+  
+  <frame src="youtubeproject.html"/>
+  <frame src="snapchatproject.html"/>
+  <frame src="sharechatproject.html"/>
+  <frame src="telegramproject.html"/>
+  <frame src="fflsplproject.html"/>
+  <frame src="cognizantproject.html"/>
+  <frame src="naukriproject.html"/>
+  <frame src="linkedinproject.html"/>
+  <frame src="glassdoorproject.html"/>
+  <frame src="mahindraproject.html"/>
+
+  </frameset>
+</html>
