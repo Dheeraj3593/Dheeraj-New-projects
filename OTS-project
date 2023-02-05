@@ -1,0 +1,3 @@
+import secrets
+otsgen=secrets.token_bytes(5)
+print("Your One Time Securitycode is :",otsgen)
